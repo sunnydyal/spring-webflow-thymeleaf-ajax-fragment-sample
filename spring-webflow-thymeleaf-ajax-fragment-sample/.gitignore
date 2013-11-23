@@ -1,0 +1,6 @@
+target
+.settings/*
+!.settings/.jsdtscope
+.prefs
+.settings
+/home
